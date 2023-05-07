@@ -28,7 +28,7 @@
 <br>
 <br>
 
-##### 🎓 &nbsp;I am currently completing these courses:
+### 🎓 &nbsp;I am currently completing these courses:
 <a href="https://codeinstitute.net/full-stack-software-development-diploma/"><img src="https://avatars.githubusercontent.com/u/16867170?s=200&v=4" width='100'></a>Code Institutes - Diploma in Full Stack Software Development course.
 <br>
 <a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript"><img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"></a> - CS50's Web Programming with Python and JavaScript, through EDX.
